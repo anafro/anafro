@@ -1,8 +1,21 @@
 # 😉 Welcome to Anatoly's GitHub 
 
+<details open>
+<summary>Contents <i>(click the left triangle to open or hide)</i></summary>
+
+[How are you?](https://github.com/anafro#who-are-you) |
+[What can you make?](https://github.com/anafro#what-can-you-make-or-which-technologies-do-you-know) |
+[What are you learning now?](https://github.com/anafro#what-are-you-learning-now) |
+[Where can I find your portfolio?](https://github.com/anafro#where-can-i-find-your-portfolio) |
+[Are you available for hire?](https://github.com/anafro#are-you-available-for-hire) |
+[How can I contact with you?](https://github.com/anafro#how-can-i-contact-with-you)
+</details>
+
+<br/>
+
 ## Who are you?
 
-I'm Anatoly from Russia, now studying in Far Eastern Federal University for a bachelor's degree. I really enjoy learning new programming languages, frameworks, technologies, and libraries and creating news projects using them. I also design and make UI-s. 
+I'm Anatoly from Russia, now studying in Far Eastern Federal University for a bachelor's degree. I really enjoy learning new programming languages, frameworks, technologies, and libraries and creating news projects using them. I also design and make UI-s. In free time, I love making electronic music and learning new languages, so now I am learning English, Norwegian and Japanese. *Jeg er glad for å gjøre det* :)
 
 ## What can you make? or Which technologies do you know?
 <img src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" width="9"> **Java Core** *(3 years experience)*
