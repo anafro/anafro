@@ -51,3 +51,5 @@ Unfortunately, because of the situation between Ukraine and the Russian Federati
 💌 **Form**: [anafro.ru/contact](anafro.ru/contact)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/288px-VK.com-logo.svg.png" width="14" height="14"> **VK**: [vk.com/anafro](vk.com/anafro)
+
+<img src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" width="16"> **Twitter**: [twitter.com/anafro_official](twitter.com/anafro_official)
