@@ -3,12 +3,12 @@
 <details open>
 <summary>Contents <i>(click the left triangle to open or hide)</i></summary>
 
-[How are you?](https://github.com/anafro#who-are-you) |
-[What can you make?](https://github.com/anafro#what-can-you-make-or-which-technologies-do-you-know) |
-[What are you learning now?](https://github.com/anafro#what-are-you-learning-now) |
-[Where can I find your portfolio?](https://github.com/anafro#where-can-i-find-your-portfolio) |
-[Are you available for hire?](https://github.com/anafro#are-you-available-for-hire) |
-[How can I contact with you?](https://github.com/anafro#how-can-i-contact-with-you)
+* [How are you?](https://github.com/anafro#who-are-you)
+[What can you make?](https://github.com/anafro#what-can-you-make-or-which-technologies-do-you-know)
+* [What are you learning now?](https://github.com/anafro#what-are-you-learning-now)
+* [Where can I find your portfolio?](https://github.com/anafro#where-can-i-find-your-portfolio)
+* [Are you available for hire?](https://github.com/anafro#are-you-available-for-hire)
+* [How can I contact with you?](https://github.com/anafro#how-can-i-contact-with-you)
 </details>
 
 <br/>
