@@ -18,6 +18,7 @@ Petals here are an indicator of progress. A petal will be given when the letter'
 
 <img src="https://github.com/anafro/anafro/blob/main/Logos/Quark.svg?raw=true" width="12" height="12"> [**Quark**](https://github.com/anafro/quark) - a small DBMS with custom Python-like query language, desktop app and APIs for querying.
 
+<img src="https://github.com/anafro/anafro/blob/main/Prototypes/Quark.png?raw=true">
 
 <br/>
 
