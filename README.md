@@ -1,7 +1,7 @@
 # 😉 Welcome to Anatoly's GitHub 
 
 <details open>
-<summary>Contents <i>(click the left triangle to open or hide)</i></summary>
+<summary>Contents <i>(click to open or hide)</i></summary>
 
 * [How are you?](https://github.com/anafro#who-are-you)
 [What can you make?](https://github.com/anafro#what-can-you-make-or-which-technologies-do-you-know)
