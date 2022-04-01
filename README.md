@@ -35,7 +35,7 @@ I'm Anatoly from Russia, now studying in Far Eastern Federal University for a ba
 ## What are you learning now?
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="14"> **Express.js**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20"> **Pure PHP**
+[//]: # (<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20"> **Pure PHP**)
 
 <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" width="20"> **Pug**
 
