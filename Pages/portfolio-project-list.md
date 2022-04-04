@@ -2,18 +2,30 @@
 
 ## Available projects
 
-*I started creating my portfolio not so resent, so there are no completed projects yet. Stay tuned :)*
+<img src="https://raw.githubusercontent.com/anafro/anafro/444a517756c328110c0ee10dbc06f39827463a64/Logos/Sakurator.svg" width="12" height="12"> [**Sakurator**](https://github.com/anafro/quark) *(Website publish date: **~4-6 April '22**)* - a personal trainer for learning Japanese alphabets (hiragana & katakana). There are 18 sets of cards of 5-6 letters. 
 
-<br>
+<img src="https://github.com/anafro/anafro/blob/main/Screenshots/Sakurator-Index.png?raw=true" style="border-radius:5px">
+
+Open one of them and start you game or change the alphabet using the switch above the cards! Sakurator will show you a letter and 4 possible pronunciations of it. Select the correct one. That's it! Simple and effective at once!
+
+<img src="https://github.com/anafro/anafro/blob/main/Screenshots/Sakurator-InGame.png?raw=true" style="border-radius:5px">
+
+See that bar above? Fill it to complete the game, and you will earn one petal. Petals show your progress. You can track how many petals you earned at main menu - just under the name of card sets.
+
+<img src="https://github.com/anafro/anafro/blob/main/Screenshots/Sakurator-InGame-With-Petals.png?raw=true" style="border-radius:5px">
+
+If you complete a game without mistakes, you will earn a bonus petal! To complete the whole course, earn all the petals needed for each card set!
+
+<img src="https://github.com/anafro/anafro/blob/main/Screenshots/Sakurator-Completed.png?raw=true" style="border-radius:5px">
+
+It's completely free! Use it and get closer to your Japanese dream! [Open the sakurator!](https://sakurator.anafro.ru) 
+
+<br/>
+
 
 ## Projects that will be published soon
 
-
-<img src="https://raw.githubusercontent.com/anafro/anafro/444a517756c328110c0ee10dbc06f39827463a64/Logos/Sakurator.svg" width="12" height="12"> [**Sakurator**](https://github.com/anafro/quark) *(GitHub publish date: **4 April '22**, website publish date: **~4-6 April '22**)* - a personal trainer for learning Japanese alphabets (hiragana & katakana). Here you will be able to open a set of cards that contain Japanese letters and several sounds it can make. You should select the right one. 
-
-<img src="https://github.com/anafro/anafro/blob/main/Prototypes/Sakurator.png?raw=true" style="border-radius:5px">
-
-Petals here are an indicator of progress. A petal will be given when the letter's sound is guessed. Earn 10 petals to earn an Emerald Petal - a powerful item and a beautiful trophy at once. What will happen if you earn all the Emerald Petals? Who knows...
+*(Empty for a short time)*
 
 <br/>
 
