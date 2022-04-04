@@ -17,6 +17,9 @@
 
 I'm Anatoly from Russia, now studying in Far Eastern Federal University for a bachelor's degree. I really enjoy learning new programming languages, frameworks, technologies, and libraries and creating news projects using them. I also design and make UI-s. In free time, I love making electronic music and learning new languages, so now I am learning English, Norwegian and Japanese. *Jeg er glad for å gjøre det* :)
 
+## Where can I find your portfolio?
+To see my portfolio projects, please, click [this link](https://github.com/anafro/anafro/blob/main/Pages/portfolio-project-list.md).
+
 ## What can you make? or Which technologies do you know?
 <img src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" width="9"> **Java Core** *(3 years experience)*
 
@@ -39,10 +42,7 @@ I'm Anatoly from Russia, now studying in Far Eastern Federal University for a ba
 
 <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" width="20"> **Pug**
 
-<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="40"> **Prisma ORM**
-
-## Where can I find your portfolio?
-To see my portfolio projects, please, click [this link](https://github.com/anafro/anafro/blob/main/Pages/portfolio-project-list.md). 
+<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="40"> **Prisma ORM** 
 
 ## Are you available for hire?
 Unfortunately, because of the situation between Ukraine and the Russian Federation, I cannot be hider physically. Payments between Russian bank accounts and foreign ones are restricted. I hope this will end soon, and everything and everyone'll get better as soon as possible. 🇺🇦
