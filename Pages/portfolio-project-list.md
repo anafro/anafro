@@ -2,7 +2,7 @@
 
 ## Available projects
 
-<img src="https://raw.githubusercontent.com/anafro/anafro/444a517756c328110c0ee10dbc06f39827463a64/Logos/Sakurator.svg" width="12" height="12"> [**Sakurator**](https://github.com/anafro/quark) *(Website publish date: **~4-6 April '22**)* - a personal trainer for learning Japanese alphabets (hiragana & katakana). There are 18 sets of cards of 5-6 letters. 
+<img src="https://raw.githubusercontent.com/anafro/anafro/444a517756c328110c0ee10dbc06f39827463a64/Logos/Sakurator.svg" width="12" height="12"> [**Sakurator**](https://github.com/anafro/sakurator) *(Website publish date: **~4-6 April '22**)* - a personal trainer for learning Japanese alphabets (hiragana & katakana). There are 18 sets of cards of 5-6 letters. 
 
 <img src="https://github.com/anafro/anafro/blob/main/Screenshots/Sakurator-Index.png?raw=true" style="border-radius:5px">
 
