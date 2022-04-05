@@ -17,7 +17,10 @@
 
 I'm Anatoly from Russia, now studying in Far Eastern Federal University for a bachelor's degree. I really enjoy learning new programming languages, frameworks, technologies, and libraries and creating news projects using them. I also design and make UI-s. In free time, I love making electronic music and learning new languages, so now I am learning English, Norwegian and Japanese. *Jeg er glad for å gjøre det* :)
 
-[![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&include_all_commits=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anafro&langs_count=10&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ## Where can I find your portfolio?
 To see my portfolio projects **with descriptions** and including the developing ones, please, click [this link](https://github.com/anafro/anafro/blob/main/Pages/portfolio-project-list.md). 
