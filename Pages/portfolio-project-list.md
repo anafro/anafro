@@ -38,3 +38,9 @@ It's completely free! Use it and get closer to your Japanese dream! [Open the sa
 <br/>
 
 <img src="https://github.com/anafro/anafro/blob/main/Logos/Zapominator.svg?raw=true" width="12" height="12"> [**Zapominator**](https://zapominator.ru) *(closed source, only Russian language is available)* - a service for students that helps to pass their Unified State Exam (USE or ЕГЭ) by playing funny games.
+
+## Project ideas
+
+> This is a list of projects that can be implemented in the future, but not guaranted to. If you have some ideas for me, please, contact me via contact@anafro.ru
+
+*(The list is temporarily empty. Stay tuned :D)*
