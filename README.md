@@ -26,7 +26,7 @@ I'm Anatoly from Russia, now studying in Far Eastern Federal University for a ba
 To see my portfolio projects **with descriptions** and including the developing ones, please, click [this link](https://github.com/anafro/anafro/blob/main/Pages/portfolio-project-list.md). 
 
 To **just open** available projects, use the list below:
-* <img src="https://raw.githubusercontent.com/anafro/anafro/444a517756c328110c0ee10dbc06f39827463a64/Logos/Sakurator.svg" width="12" height="12"> [**Sakurator**](https://sakurator.anafro.ru/) *(will be published in several days)*
+* <img src="https://raw.githubusercontent.com/anafro/anafro/444a517756c328110c0ee10dbc06f39827463a64/Logos/Sakurator.svg" width="12" height="12"> [**Sakurator**](https://sakurator.anafro.ru/)
 
 ## What can you make? or Which technologies do you know?
 <img src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" width="9"> **Java Core** *(3 years experience)*
