@@ -1,1 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16"><defs><style>.c{fill:#fff;}.d{fill:url(#b);}</style><linearGradient id="b" x1="0" y1="8" x2="16" y2="8" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff073d"/><stop offset="1" stop-color="#ff77c1"/></linearGradient></defs><rect class="d" width="16" height="16" rx="3.87" ry="3.87"/><g><path class="c" d="M6.75,6.16l.5-3.05,.5,3.05c.14,.86,.81,1.53,1.67,1.67l3.05,.5-3.05,.5c-.86,.14-1.53,.81-1.67,1.67l-.5,3.05-.5-3.05c-.14-.86-.81-1.53-1.67-1.67l-3.05-.5,3.05-.5c.86-.14,1.53-.81,1.67-1.67Z"/><path class="c" d="M10.57,3.71l.21-1.27,.21,1.27c.06,.36,.34,.63,.69,.69l1.27,.21-1.27,.21c-.36,.06-.63,.34-.69,.69l-.21,1.27-.21-1.27c-.06-.36-.34-.63-.69-.69l-1.27-.21,1.27-.21c.36-.06,.63-.34,.69-.69Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#0081FF;}
+	.st2{filter:url(#Adobe_OpacityMaskFilter);}
+	.st3{opacity:0.3;mask:url(#SVGID_00000084495881193032176530000012869004576415595697_);}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:url(#SVGID_00000146496360410399568330000001141994884998914720_);}
+	.st6{filter:url(#Adobe_OpacityMaskFilter_00000101082359524838959320000010098874239551776152_);}
+	.st7{opacity:0.3;mask:url(#SVGID_00000062887656960486228420000018204031141841448602_);}
+	.st8{font-family:'Gilroy-Semibold';}
+	.st9{font-size:9.4736px;}
+</style>
+<g>
+	
+		<image style="overflow:visible;opacity:0.4;" width="65" height="64" xlink:href="B378E7CD.png"  transform="matrix(1 0 0 1 87 13)">
+	</image>
+	<g>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="102.6587" y1="57.4783" x2="131.7827" y2="28.3542">
+				<stop  offset="0" style="stop-color:#00FFFF"/>
+				<stop  offset="1" style="stop-color:#0000FF"/>
+			</linearGradient>
+			<path class="st0" d="M107.1,59.3c-3.5,0-6.3-2.8-6.3-6.3V32.8c0-3.5,2.8-6.3,6.3-6.3h20.2c3.5,0,6.3,2.8,6.3,6.3V53
+				c0,3.5-2.8,6.3-6.3,6.3H107.1z"/>
+			<path class="st1" d="M127.3,27c3.2,0,5.8,2.6,5.8,5.8V53c0,3.2-2.6,5.8-5.8,5.8h-20.2c-3.2,0-5.8-2.6-5.8-5.8V32.8
+				c0-3.2,2.6-5.8,5.8-5.8H127.3 M127.3,26h-20.2c-3.8,0-6.8,3.1-6.8,6.8V53c0,3.8,3.1,6.8,6.8,6.8h20.2c3.8,0,6.8-3.1,6.8-6.8V32.8
+				C134.1,29.1,131.1,26,127.3,26L127.3,26z"/>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="100.3" y="26" width="33.8" height="33.8">
+				
+					<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+			</filter>
+		</defs>
+		
+			<mask maskUnits="userSpaceOnUse" x="100.3" y="26" width="33.8" height="33.8" id="SVGID_00000044147815755434898650000004540558419403713970_">
+			<g class="st2">
+				<image style="overflow:visible;" width="39" height="38" xlink:href="B378E7CF.jpg"  transform="matrix(1 0 0 1 98 24)">
+				</image>
+			</g>
+		</mask>
+		<g style="opacity:0.3;mask:url(#SVGID_00000044147815755434898650000004540558419403713970_);">
+			<path class="st4" d="M107.1,59.3c-3.5,0-6.3-2.8-6.3-6.3V32.8c0-3.5,2.8-6.3,6.3-6.3h20.2c3.5,0,6.3,2.8,6.3,6.3V53
+				c0,3.5-2.8,6.3-6.3,6.3H107.1z"/>
+			<path class="st4" d="M127.3,27c3.2,0,5.8,2.6,5.8,5.8V53c0,3.2-2.6,5.8-5.8,5.8h-20.2c-3.2,0-5.8-2.6-5.8-5.8V32.8
+				c0-3.2,2.6-5.8,5.8-5.8H127.3 M127.3,26h-20.2c-3.8,0-6.8,3.1-6.8,6.8V53c0,3.8,3.1,6.8,6.8,6.8h20.2c3.8,0,6.8-3.1,6.8-6.8V32.8
+				C134.1,29.1,131.1,26,127.3,26L127.3,26z"/>
+		</g>
+	</g>
+</g>
+<g>
+	
+		<image style="overflow:visible;opacity:0.6;" width="35" height="41" xlink:href="B378E7CA.png"  transform="matrix(1 0 0 1 100 23)">
+	</image>
+	<g>
+		<text transform="matrix(1 0 0 1 109.1992 49.8361)" class="st4 st8" style="font-size:20.0289px;">Q</text>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_00000146483739511269218600000014495656258369998254_" gradientUnits="userSpaceOnUse" x1="1.2985" y1="14.7015" x2="14.7015" y2="1.2985">
+			<stop  offset="0" style="stop-color:#00FFFF"/>
+			<stop  offset="1" style="stop-color:#0000FF"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_00000146483739511269218600000014495656258369998254_);" d="M3.2,15.5c-1.5,0-2.7-1.2-2.7-2.7V3.2
+			c0-1.5,1.2-2.7,2.7-2.7h9.6c1.5,0,2.7,1.2,2.7,2.7v9.6c0,1.5-1.2,2.7-2.7,2.7H3.2z"/>
+		<path class="st1" d="M12.8,1C14,1,15,2,15,3.2v9.6c0,1.2-1,2.2-2.2,2.2H3.2C2,15,1,14,1,12.8V3.2C1,2,2,1,3.2,1H12.8 M12.8,0H3.2
+			C1.4,0,0,1.4,0,3.2v9.6C0,14.6,1.4,16,3.2,16h9.6c1.8,0,3.2-1.4,3.2-3.2V3.2C16,1.4,14.6,0,12.8,0L12.8,0z"/>
+	</g>
+	<defs>
+		
+			<filter id="Adobe_OpacityMaskFilter_00000045593065360651335520000006074995439002849422_" filterUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+			
+				<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+		</filter>
+	</defs>
+	
+		<mask maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16" id="SVGID_00000085251967514511989260000008695371151553792914_">
+		<g style="filter:url(#Adobe_OpacityMaskFilter_00000045593065360651335520000006074995439002849422_);">
+			<image style="overflow:visible;" width="20" height="20" xlink:href="B378E7CB.jpg"  transform="matrix(1 0 0 1 -2 -2)">
+			</image>
+		</g>
+	</mask>
+	<g style="opacity:0.3;mask:url(#SVGID_00000085251967514511989260000008695371151553792914_);">
+		<path class="st4" d="M3.2,15.5c-1.5,0-2.7-1.2-2.7-2.7V3.2c0-1.5,1.2-2.7,2.7-2.7h9.6c1.5,0,2.7,1.2,2.7,2.7v9.6
+			c0,1.5-1.2,2.7-2.7,2.7H3.2z"/>
+		<path class="st4" d="M12.8,1C14,1,15,2,15,3.2v9.6c0,1.2-1,2.2-2.2,2.2H3.2C2,15,1,14,1,12.8V3.2C1,2,2,1,3.2,1H12.8 M12.8,0H3.2
+			C1.4,0,0,1.4,0,3.2v9.6C0,14.6,1.4,16,3.2,16h9.6c1.8,0,3.2-1.4,3.2-3.2V3.2C16,1.4,14.6,0,12.8,0L12.8,0z"/>
+	</g>
+</g>
+<g>
+	
+		<image style="overflow:visible;opacity:0.6;" width="26" height="29" xlink:href="B378E7D5.png"  transform="matrix(1 0 0 1 -5 -6)">
+	</image>
+	<g>
+		<text transform="matrix(1 0 0 1 4.2061 11.2734)" class="st4 st8 st9">Q</text>
+	</g>
+</g>
+</svg>
