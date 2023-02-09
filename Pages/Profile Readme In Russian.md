@@ -12,7 +12,7 @@
 
 <h2 align="center">🌎 Языки / Languages</h2>
 
-Вы также можете посмотреть этот профиль на <a href="https://github.com/anafro"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" height="12">английском (English)</a> и <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" height="12"> норвежском (Norsk Bokmål) (скоро)
+Вы также можете посмотреть этот профиль на <a href="https://github.com/anafro"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" height="12"> английском (English)</a> и <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" height="12"> норвежском (Norsk Bokmål) (скоро)
 
 <h2 id="short-summary" align="center">Коротко обо мне</h2>
 Я Анатолий, разработчик программного обеспечения. Я создаю <a href="#projects">проекты</a> и развиваю <a href="#skills">навыки программиста</a> на протяжении 5 лет. Я <a href="#education">всё ещё учусь в университете</a>, но я открыт для предложений! Просто <a href="#contacts">свяжитесь</a> со мной.
