@@ -1,3 +1,5 @@
+<sup>Вы также можете посмотреть этот профиль на <a href="https://github.com/anafro"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" height="9"> английском (English)</a> и <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" height="9"> норвежском (Norsk Bokmål) (скоро)</sup>
+
 [![The Anatoly Frolov's Profile Page Banner](https://github.com/anafro/anafro/blob/main/Banners/Profile.Banner.png?raw=true "Press the right mouse button and then press 'Copy the URL' to copy the URL to my GitHub page")](https://github.com/anafro)
 
 <h1 align="center">Добро пожаловать на мой GitHub</h1>
@@ -11,12 +13,6 @@
 </p>
 
 <h2 align="center">🌎 Языки / Languages</h2>
-
-Я владею:
-
-* Русским - мой родной язык
-* Английским - разговорный на A2-B1, письменный на B1-B2
-* Норвежским (bokmål) - A1
 
 Вы также можете посмотреть этот профиль на <a href="https://github.com/anafro"><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" height="12"> английском (English)</a> и <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" height="12"> норвежском (Norsk Bokmål) (скоро)
 
@@ -36,6 +32,12 @@
 * **Инструменты**: Adobe Illustrator
 
 Владея этими навыками, я могу создать красивый веб-сайт для вас с хорошо структурированным API. Более того, я могу работать на Java, создавая одиночные приложения.
+
+Я владею:
+
+* Русским - мой родной язык
+* Английским - разговорный на A2-B1, письменный на B1-B2
+* Норвежским (bokmål) - A1
 
 <h2 id="education" align="center">Образование</h2>
 🎓 С 2020 по 2024: Бакалаврская степень направления "Программная инженерия" в Дальневосточном Федеральном Университете, ДВФУ (Владивосток, Россия)
