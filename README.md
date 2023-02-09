@@ -1,4 +1,4 @@
-You can see my profile also in <a href="https://github.com/anafro/anafro/blob/main/Pages/Profile%20Readme%20In%20Russian.md"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" height="12"> Russian (Русский)</a>, and <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" height="12"> Norwegian (Norsk Bokmål) (upcoming)
+<sub><sup>You can see my profile also in <a href="https://github.com/anafro/anafro/blob/main/Pages/Profile%20Readme%20In%20Russian.md"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" height="12"> Russian (Русский)</a>, and <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" height="12"> Norwegian (Norsk Bokmål) (upcoming)</sup></sub>
 
 
 [![The Anatoly Frolov's Profile Page Banner](https://github.com/anafro/anafro/blob/main/Banners/Profile.Banner.png?raw=true "Press the right mouse button and then press 'Copy the URL' to copy the URL to my GitHub page")](https://github.com/anafro)
