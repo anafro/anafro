@@ -13,26 +13,28 @@
 <h2 align="center">Short Summary</h2>
 I am Anatoly, a Software Developer from Russia. I have been working on my projects and developing programming skills for almost 5 years. I am still <a href="#education">studying at my university</a>, but I will welcome any of your offer! Just <a href="#contacts">contact</a> me.
 
+<br>
+
 [![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Skills</h2>
 I know:
 
-* Java
-* Laravel
-* Vue
-* MySQL
-* Front-end webstack (HTML, CSS, JavaScript, Sass)
-* Adobe Illustrator
+Languages: Java, HTML5/JavaScript/CSS/Sass
+Frameworks: Laravel
+Databases: MySQL
+Tools: Adobe Illustrator
 
 So I can make a website for you with a beautiful design, and also a solid API for it. Moreover, I can work with Java to make standalone applications.
 
 <h2 align="center">Education</h2>
-🎓 From 2020 to 2024 _[Incomplete]_: "Programming engineering" Bachelor's degree at Far Eastern Federal University, FEFU (Vladivostok, Russia)
+🎓 From 2020 to 2024: "Programming Engineering" Bachelor's degree at Far Eastern Federal University, FEFU (Vladivostok, Russia)
 
 <h2 align="center">Projects</h2>
+I have two projects at this moment:
 
-_
+* <a href="https://github.com/quark-dbms">Quark</a> is the biggest project I've ever made. This is a database management system, where the main emphasis
+*  
 
 <h2 align="center">Contacts</h2>
 
