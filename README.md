@@ -10,7 +10,7 @@
     <a href="https://github.com/anafro#short-summary/">Contacts</a>
 </p>
 
-## Short Summary
+<h2 align="center">Short Summary</h2>
 
 I'm Anatoly from Russia, now studying in Far Eastern Federal University for a bachelor's degree. I really enjoy learning new programming languages, frameworks, technologies, and libraries and creating news projects using them. I also design and make UI-s. In free time, I love making electronic music and learning new languages, so now I am learning English, Norwegian and Japanese. *Jeg er glad for å gjøre det* :)
 
