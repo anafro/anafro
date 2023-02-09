@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my GitHub</h1>
 
 <p align="center">
-[Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary)
+[lorem]
 </p>
 
 ## Who are you?
