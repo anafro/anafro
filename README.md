@@ -1,3 +1,5 @@
+[![The Anatoly Frolov's Profile Page Banner](https://github.com/anafro/anafro/blob/main/Banners/Profile.Banner.png?raw=true "Press the right mouse button and then press 'Copy the URL' to copy the URL to my GitHub page")](https://github.com/anafro)
+
 # 😉 Welcome to Anatoly's GitHub 
 
 <details open>
