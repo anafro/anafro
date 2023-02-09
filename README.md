@@ -28,7 +28,7 @@ _
 
 <h2 align="center">Contacts</h2>
 Email: <a href="mailto:anatolyfroloff@gmail.com">anatolyfroloff@gmail.com</a><!-- and <a href="mailto:contact@anafro.ru">contact@anafro.ru</a>-->
-VK: [Anatoly Frolov](https://vk.com/anafro)
+VK: <a href="https://vk.com/anafro">Anatoly Frolov]</a>
 
 
 I'm Anatoly from Russia, now studying in Far Eastern Federal University for a bachelor's degree. I really enjoy learning new programming languages, frameworks, technologies, and libraries and creating news projects using them. I also design and make UI-s. In free time, I love making electronic music and learning new languages, so now I am learning English, Norwegian and Japanese. *Jeg er glad for å gjøre det* :)
