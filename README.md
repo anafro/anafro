@@ -11,11 +11,9 @@
 </p>
 
 <h2 align="center">Short Summary</h2>
-_
+I am Anatoly, a Software Developer from Russia. I have been working on my projects and developing programming skills for almost 5 years. I am still [studying at my university](#skills), but I will welcome any of your offer! Just [contact](#contacts) me.
 
 [![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anafro&langs_count=10&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Skills</h2>
 
