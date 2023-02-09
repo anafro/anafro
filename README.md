@@ -11,17 +11,24 @@
 </p>
 
 <h2 align="center">Short Summary</h2>
-I am Anatoly, a Software Developer from Russia. I have been working on my projects and developing programming skills for almost 5 years. I am still <a href="#education">studying at my university</a>, but I will welcome any of your offer! Just <a href="#contacts">contacts</a> me.
+I am Anatoly, a Software Developer from Russia. I have been working on my projects and developing programming skills for almost 5 years. I am still <a href="#education">studying at my university</a>, but I will welcome any of your offer! Just <a href="#contacts">contact</a> me.
 
 [![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Skills</h2>
+I know:
 
-_
+* Java
+* Laravel
+* Vue
+* MySQL
+* Front-end webstack (HTML, CSS, JavaScript, Sass)
+* Adobe Illustrator
+
+So I can make a website for you with a beautiful design, and also a solid API for it. Moreover, I can work with Java to make standalone applications.
 
 <h2 align="center">Education</h2>
-
-_
+🎓 From 2020 to 2024 __[Incomplete]__: "Programming engineering" Bachelor's degree at Far Eastern Federal University, FEFU (Vladivostok, Russia)
 
 <h2 align="center">Projects</h2>
 
