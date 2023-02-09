@@ -20,10 +20,10 @@ I am Anatoly, a Software Developer from Russia. I have been working on my projec
 <h2 align="center">Skills</h2>
 I know:
 
-Languages: Java, HTML5/JavaScript/CSS/Sass/Pug
-Frameworks: Laravel
-Databases: MySQL
-Tools: Adobe Illustrator
+* **Languages**: Java, HTML5/JavaScript/CSS/Sass/Pug
+* **Frameworks**: Laravel
+* **Databases**: MySQL
+* **Tools**: Adobe Illustrator
 
 So I can make a website for you with a beautiful design, and also a solid API for it. Moreover, I can work with Java to make standalone applications.
 
@@ -58,6 +58,8 @@ Used technologies for the new version:
 
 * PHP / Laravel
 * MySQL
+
+You can always check out the list of the projects at the left side of the desktop GitHub page in the "Organizations" list.
 
 <h2 align="center">Contacts</h2>
 
