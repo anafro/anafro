@@ -2,6 +2,8 @@
 
 <h1 align="center">Welcome to my GitHub</h1>
 
+[to the short summary](#short-summary)
+
 <p align="center">
     <a href="https://github.com/anafro#short-summary/">Short Summary</a> |
     <a href="https://github.com/anafro#short-summary/">Education</a> |
