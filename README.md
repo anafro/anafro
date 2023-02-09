@@ -13,7 +13,7 @@
 <h2 align="center">Short Summary</h2>
 I am Anatoly, a Software Developer from Russia. I have been working on my projects and developing programming skills for almost 5 years. I am still <a href="#education">studying at my university</a>, but I will welcome any of your offer! Just <a href="#contacts">contact</a> me.
 
-<hr>
+<h2 align="center">GitHub Statistics</h2>
 
 [![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
