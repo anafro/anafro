@@ -10,6 +10,10 @@
     <a href="#contacts">Contacts</a>
 </p>
 
+<h2 align="center">🌎 Languages<h2>
+
+You can see my profile also in <a href="">Russian (Русский)</a>
+
 <h2 align="center">Short Summary</h2>
 I am Anatoly, a Software Developer from Russia. I have been working on my projects and developing programming skills for almost 5 years. I am still <a href="#education">studying at my university</a>, but I will welcome any of your offer! Just <a href="#contacts">contact</a> me.
 
