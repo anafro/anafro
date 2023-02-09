@@ -2,8 +2,9 @@
 
 <h1 align="center">Welcome to my GitHub</h1>
 
-[Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary)
-
+<p align="center">
+    [Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary) | [Short summary](https://github.com/anafro#short-summary)
+</p>
 
 ## Who are you?
 
