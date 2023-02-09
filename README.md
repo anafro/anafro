@@ -12,7 +12,7 @@
 
 <h2 align="center">🌎 Languages</h2>
 
-You can see my profile also in <a href="https://github.com/anafro/anafro/blob/main/Pages/Profile%20Readme%20In%20Russian.md">Russian (Русский)</a>
+You can see my profile also in <a href="https://github.com/anafro/anafro/blob/main/Pages/Profile%20Readme%20In%20Russian.md"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" height="12"> Russian (Русский)</a>
 
 <h2 align="center">Short Summary</h2>
 I am Anatoly, a Software Developer from Russia. I have been working on <a href="#projects">my projects</a> and developing <a href="#skills">programming skills</a> for almost 5 years. I am still <a href="#education">studying at my university</a>, but I will welcome any of your offer! Just <a href="#contacts">contact</a> me.
