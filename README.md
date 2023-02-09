@@ -12,6 +12,12 @@
 
 <h2 align="center">🌎 Languages</h2>
 
+I speak:
+
+* Russian - my mother tongue
+* Английским - speaking is A2-B1, writing is B1-B2
+* Норвежским (bokmål) - A1
+
 You can see my profile also in <a href="https://github.com/anafro/anafro/blob/main/Pages/Profile%20Readme%20In%20Russian.md"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" height="12"> Russian (Русский)</a>, and <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" height="12"> Norwegian (Norsk Bokmål) (upcoming)
 
 <h2 align="center">Short Summary</h2>
