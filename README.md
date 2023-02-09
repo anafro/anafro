@@ -28,7 +28,7 @@ I know:
 So I can make a website for you with a beautiful design, and also a solid API for it. Moreover, I can work with Java to make standalone applications.
 
 <h2 align="center">Education</h2>
-🎓 From 2020 to 2024 __[Incomplete]__: "Programming engineering" Bachelor's degree at Far Eastern Federal University, FEFU (Vladivostok, Russia)
+🎓 From 2020 to 2024 _[Incomplete]_: "Programming engineering" Bachelor's degree at Far Eastern Federal University, FEFU (Vladivostok, Russia)
 
 <h2 align="center">Projects</h2>
 
