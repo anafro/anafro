@@ -20,7 +20,7 @@ I am Anatoly, a Software Developer from Russia. I have been working on my projec
 <h2 align="center">Skills</h2>
 I know:
 
-Languages: Java, HTML5/JavaScript/CSS/Sass
+Languages: Java, HTML5/JavaScript/CSS/Sass/Pug
 Frameworks: Laravel
 Databases: MySQL
 Tools: Adobe Illustrator
@@ -33,8 +33,31 @@ So I can make a website for you with a beautiful design, and also a solid API fo
 <h2 align="center">Projects</h2>
 I have two projects at this moment:
 
-* <a href="https://github.com/quark-dbms">Quark</a> is the biggest project I've ever made. This is a database management system, where the main emphasis
-*  
+<a href="https://github.com/quark-dbms">Quark</a> is the biggest project I've ever made. This is a database management system. 
+
+Used technoligies: 
+
+* Java
+* PHP
+* Node.js
+* Webstack (HTML5 / Sass / JavaScript)
+* Electron.js
+* Python
+* TypeScript
+* C#
+
+<a href="https://github.com/sakurator">Sakurator</a> is a website for learning Japanese alphabets: hiragana and katakana.
+
+Used technologies for the old version:
+
+* Node.js / Express.js
+* Prism.js
+* MySQL
+
+Used technologies for the new version:
+
+* PHP / Laravel
+* MySQL
 
 <h2 align="center">Contacts</h2>
 
