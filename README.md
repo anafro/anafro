@@ -18,6 +18,12 @@ I am Anatoly, a Software Developer from Russia. I have been working on <a href="
 
 <h2 align="center">GitHub Statistics</h2>
 
+### Day Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anafro&theme=dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
+
+### GitHub Stats
+
 [![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Skills</h2>
