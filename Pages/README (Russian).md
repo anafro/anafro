@@ -17,6 +17,12 @@
 
 <h2 id="statistics" align="center">Статистика GitHub</h2>
 
+### 🔥 Серия
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anafro&theme=nord&hide_border=true&border_radius=3&locale=ru)](https://git.io/streak-stats)
+
+### 📊 Статистика
+
 [![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 id="skills" align="center">Навыки</h2>
