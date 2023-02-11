@@ -45,7 +45,7 @@ I speak:
 <h2 align="center">Projects</h2>
 I have two projects at this moment:
 
-<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Quark.svg" width="12" height="12"> <a href="https://github.com/quark-dbms">Quark</a> is the biggest project I've ever made. This is a database management system. 
+<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Quark.svg" width="12" height="12"> <a href="https://github.com/quark-db">Quark</a> is the biggest project I've ever made. This is a database management system. 
 
 Used technoligies: 
 

@@ -39,7 +39,7 @@
 
 Сейчас у меня 2 проекта:
 
-<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Quark.svg" width="12" height="12"> <a href="https://github.com/quark-dbms">Quark</a> это самый большой проект, что я когда-либо создавал. Это система управления базами данных. 
+<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Quark.svg" width="12" height="12"> <a href="https://github.com/quark-db">Quark</a> это самый большой проект, что я когда-либо создавал. Это система управления базами данных. 
 
 Использованные технологии: 
 
