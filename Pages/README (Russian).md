@@ -2,7 +2,7 @@
 
 [![The Anatoly Frolov's Profile Page Banner](https://github.com/anafro/anafro/blob/main/Banners/Profile.Banner.png?raw=true "Press the right mouse button and then press 'Copy the URL' to copy the URL to my GitHub page")](https://github.com/anafro)
 
-<h1 align="center">Добро пожаловать на мой GitHub</h1>
+<h1 align="center">🌿 Добро пожаловать на мой GitHub 🌿</h1>
 
 <p align="center">
     <a href="#short-summary">Коротко обо мне</a> •
