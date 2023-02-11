@@ -20,7 +20,7 @@ I am Anatoly, a Software Developer from Russia. I have been working on <a href="
 
 ### Day Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anafro&theme=dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anafro&theme=nord&hide_border=true&border_radius=3)](https://git.io/streak-stats)
 
 ### GitHub Stats
 
