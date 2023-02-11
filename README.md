@@ -3,13 +3,13 @@
 
 [![The Anatoly Frolov's Profile Page Banner](https://github.com/anafro/anafro/blob/main/Banners/Profile.Banner.png?raw=true "Press the right mouse button and then press 'Copy the URL' to copy the URL to my GitHub page")](https://github.com/anafro)
 
-<h1 align="center">Welcome to my GitHub</h1>
+<h1 align="center">🌿 Welcome to my GitHub 🌿</h1>
 
 <p align="center">
-    <a href="#short-summary">Short Summary</a> |
-    <a href="#skills">Skills</a> |
-    <a href="#education">Education</a> |
-    <a href="#projects">Projects</a> |
+    <a href="#short-summary">Short Summary</a> •
+    <a href="#skills">Skills</a> •
+    <a href="#projects">Projects</a> •
+    <a href="#education">Education</a> •
     <a href="#contacts">Contacts</a>
 </p>
 
@@ -35,9 +35,6 @@ I speak:
 * Russian - my mother tongue
 * English - speaking is A2-B1, writing is B1-B2
 * Norwegian (bokmål) - A1
-
-<h2 align="center">Education</h2>
-🎓 From 2020 to 2024: "Programming Engineering" Bachelor's degree at Far Eastern Federal University, FEFU (Vladivostok, Russia)
 
 <h2 align="center">Projects</h2>
 I have two projects at this moment:
@@ -69,6 +66,11 @@ Used technologies for the new version:
 * MySQL
 
 You can always check out the list of the projects at the left side of the desktop GitHub page in the "Organizations" list.
+
+
+<h2 align="center">Education</h2>
+
+🎓 From 2020 to 2024: "Programming Engineering" Bachelor's degree at Far Eastern Federal University, FEFU (Vladivostok, Russia)
 
 <h2 align="center">Contacts</h2>
 
