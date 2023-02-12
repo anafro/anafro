@@ -42,6 +42,13 @@ I speak:
 * English - speaking is A2-B1, writing is B1-B2
 * Norwegian (bokmål) - A1
 
+I am learning:
+
+* **Languages**: Modern JavaScript
+* **Frameworks**: Vue.js
+
+I need these technologies to make single page applications (SPA) in the future.
+
 <h2 align="center">Projects</h2>
 I have two projects at this moment:
 
