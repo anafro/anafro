@@ -52,7 +52,7 @@ I need these technologies to make single page applications (SPA) in the future.
 <h2 align="center">Projects</h2>
 I have two projects at this moment:
 
-<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Quark.svg" width="12" height="12"> <a href="https://github.com/quark-db">Quark</a> is the biggest project I've ever made. This is a database management system. 
+<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Quark.svg" width="12" height="12"> <a href="https://github.com/quark-db"><strong>Quark</strong></a> is the biggest project I've ever made. This is a database management system. 
 
 Used technoligies: 
 
@@ -65,7 +65,7 @@ Used technoligies:
 * TypeScript
 * C#
 
-<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Sakurator.svg" width="12" height="12"> <a href="https://github.com/sakurator">Sakurator</a> is a website for learning Japanese alphabets: hiragana and katakana.
+<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Sakurator.svg" width="12" height="12"> <a href="https://github.com/sakurator"><strong>Sakurator</strong></a> is a website for learning Japanese alphabets: hiragana and katakana.
 
 Of course, both versions of the website uses:
 
@@ -85,7 +85,7 @@ Used technologies for the new version:
 * Lifewire
 * MySQL
 
-<img src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Keyframe%20Base.svg" width="12" height="12"> <a href="https://github.com/keyframe-base">Keyframe Base</a> is an online collection of well-made CSS animations. All of them are super-customizable!
+<img src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Keyframe%20Base.svg" width="12" height="12"> <a href="https://github.com/keyframe-base"><strong>Keyframe Base</strong></a> is an online collection of well-made CSS animations. All of them are super-customizable!
 
 Used technologies:
 
