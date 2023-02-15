@@ -82,9 +82,19 @@ Used technologies for the old version:
 Used technologies for the new version:
 
 * PHP / Laravel
+* Lifewire
 * MySQL
 
-You can always check out the list of the projects at the left side of the desktop GitHub page in the "Organizations" list.
+<img src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Keyframe%20Base.svg" width="12" height="12"> <a href="https://github.com/keyframe-base">Keyframe Base</a> is an online collection of well-made CSS animations. All of them are super-customizable!
+
+Used technologies:
+
+* Frontend stuff (HTML5 / Sass / JavaScript)
+* PHP / Laravel
+* Laravel Blade
+* MySQL
+
+<sub align="center">You can always check out the list of the projects at the left side of the desktop GitHub page in the "Organizations" list.</sub>
 
 
 <h2 align="center">Education</h2>
