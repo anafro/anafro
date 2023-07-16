@@ -1,7 +1,7 @@
 <sup>🌎 You can see my profile also in <a href="https://github.com/anafro/anafro/blob/main/Pages/README%20(Russian).md"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" height="9"> Russian (Русский)</a>, and <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" height="9"> Norwegian (Norsk Bokmål) (upcoming)</sup>
 
 
-[![The Anatoly Frolov's Profile Page Banner](https://github.com/anafro/anafro/blob/main/Banners/Profile.Banner.png?raw=true "Press the right mouse button and then press 'Copy the URL' to copy the URL to my GitHub page")](https://github.com/anafro)
+[![The Anafro's Profile Page Banner](https://github.com/anafro/anafro/blob/main/Banners/Anafro@Readme-Banner "Press the right mouse button and then press 'Copy the URL' to copy the URL to my GitHub page")](https://github.com/anafro)
 
 <h1 align="center">🌿 Welcome to my GitHub 🌿</h1>
 
