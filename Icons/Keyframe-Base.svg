@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1429.63 1429.4">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SpaceGrotesk-Bold, 'Space Grotesk';
+        font-size: 919.53px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #2478ff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x=".23" width="1429.4" height="1429.4" rx="329.49" ry="329.49"/>
+  <text class="cls-1" transform="translate(436.44 1011.84)"><tspan x="0" y="0">S</tspan></text>
+  <g>
+    <rect class="cls-3" x="334.93" y="504.2" width="421" height="421" transform="translate(665.12 -176.35) rotate(45)"/>
+    <polygon class="cls-3" points="884.43 417.01 799.68 501.76 1012.62 714.7 799.68 927.64 884.43 1012.39 1182.12 714.7 884.43 417.01"/>
+  </g>
+</svg>
