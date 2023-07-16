@@ -18,9 +18,9 @@ I am Anatoly, a Software Developer from Vladivostok, Russia. I have been working
 
 Languages I speak:
 
-* Russian - my mother tongue
-* English - speaking is A2-B1, writing is B1
-* Norwegian (bokmål) - A1
+* <img src="https://raw.githubusercontent.com/anafro/anafro/main/Icons/Language-Russian.svg" height="14"> Russian - Native
+* <img src="https://raw.githubusercontent.com/anafro/anafro/main/Icons/Language-English.svg" height="14"> English - B1
+* <img src="https://raw.githubusercontent.com/anafro/anafro/main/Icons/Language-Norwegian.svg" height="14"> Norwegian (Bokmål) - A1
 
 <h2 align="center">Projects</h2>
 

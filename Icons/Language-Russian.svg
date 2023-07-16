@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1429.63 1429.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff0060;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #0079ff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-4" x=".12" y=".12" width="1429.4" height="1429.4" rx="329.49" ry="329.49"/>
+    </clipPath>
+  </defs>
+  <g class="cls-3">
+    <g>
+      <rect class="cls-5" x="3.06" y="476.54" width="1429.63" height="476.54"/>
+      <rect class="cls-1" x="3.06" y="0" width="1429.63" height="476.54"/>
+      <rect class="cls-2" x="3.06" y="953.09" width="1429.63" height="476.54"/>
+    </g>
+  </g>
+</svg>
