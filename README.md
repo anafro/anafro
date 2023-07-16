@@ -16,13 +16,6 @@ I am Anatoly, a Software Developer from Vladivostok, Russia. I have been working
 <h2 align="center">Skills</h2>
 <p><img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Java.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Web.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/JavaScript.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Sass.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/MySQL.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Adobe-Illustrator.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/PHP.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Python.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Express.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Prisma.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/React.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Redux.svg" height="24"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Rxjs.svg" height="24"> </p>
 
-So I can make a website for you with a beautiful design, and also a solid API for it. Moreover, I can work with Java to make standalone applications.
-
-I am learning:
-
-* **Languages**: TypeScript, Python
-* **Frameworks**: React
-
 Languages I speak:
 
 * Russian - my mother tongue
