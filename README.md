@@ -11,87 +11,32 @@
 </p>
 
 <h2 align="center">Short Summary</h2>
-I am Anatoly, a Software Developer from Russia. I have been working on <a href="#projects">my projects</a> and developing <a href="#skills">programming skills</a> for almost 5 years. I am still <a href="#education">studying at my university</a>, but I will welcome any of your offer! Just <a href="#contacts">contact</a> me.
-
-<h2 align="center">GitHub Statistics</h2>
-
-### 🔥 Day Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anafro&theme=nord&hide_border=true&border_radius=3)](https://git.io/streak-stats)
-
-### 📊 GitHub Stats
-
-[![Anatoly Frolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anafro&show_icons=true&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+I am Anatoly, a Software Developer from Russia. I have been working on <a href="#projects">my projects</a> and developing <a href="#skills">programming skills</a> for almost 5 years. I am still <a href="#education">studying at my university</a>. Got a question? Want to hire me? Have a project idea? Just <a href="#contacts">contact</a> me!
 
 <h2 align="center">Skills</h2>
 I know:
 
-* **Languages**: Java, HTML5/JavaScript/CSS/Sass/Pug
+* **Languages**: Java (*Java Core*, *JDBC*), HTML5/JavaScript/CSS/Sass/Pug
 * **Frameworks**: Laravel
-* **Databases**: MySQL
+* **Databases**: SQL (*MySQL*)
 * **Tools**: Adobe Illustrator
 
 So I can make a website for you with a beautiful design, and also a solid API for it. Moreover, I can work with Java to make standalone applications.
 
-I speak:
-
-* Russian - my mother tongue
-* English - speaking is A2-B1, writing is B1-B2
-* Norwegian (bokmål) - A1
-
 I am learning:
 
-* **Languages**: Modern JavaScript
-* **Frameworks**: Vue.js
+* **Languages**: TypeScript, Python
+* **Frameworks**: React
 
-I need these technologies to make single page applications (SPA) in the future.
+Languages I speak:
+
+* Russian - my mother tongue
+* English - speaking is A2-B1, writing is B1
+* Norwegian (bokmål) - A1
 
 <h2 align="center">Projects</h2>
-I have two projects at this moment:
 
-<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Quark.svg" width="12" height="12"> <a href="https://github.com/quark-db"><strong>Quark</strong></a> is the biggest project I've ever made. This is a database management system. 
-
-Used technoligies: 
-
-* Java
-* PHP
-* Node.js
-* Webstack (HTML5 / Sass / JavaScript)
-* Electron.js
-* Python
-* TypeScript
-* C#
-
-<img src="https://raw.githubusercontent.com/anafro/anafro/a54046d5e85e449e4266ecb2957c90880f1e1953/Logos/Sakurator.svg" width="12" height="12"> <a href="https://github.com/sakurator"><strong>Sakurator</strong></a> is a website for learning Japanese alphabets: hiragana and katakana.
-
-Of course, both versions of the website uses:
-
-* HTML5
-* CSS (compiled from Sass)
-* JavaScript
-
-Used technologies for the old version:
-
-* Node.js / Express.js
-* Prism.js
-* MySQL
-
-Used technologies for the new version:
-
-* PHP / Laravel
-* Lifewire
-* MySQL
-
-<img src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Keyframe%20Base.svg" width="12" height="12"> <a href="https://github.com/keyframe-base"><strong>Keyframe Base</strong></a> is an online collection of well-made CSS animations. All of them are super-customizable!
-
-Used technologies:
-
-* Frontend stuff (HTML5 / Sass / JavaScript)
-* PHP / Laravel
-* Laravel Blade
-* MySQL
-
-<sub align="center">You can always check out the list of the projects at the left side of the desktop GitHub page in the "Organizations" list.</sub>
+*Stay tuned*
 
 
 <h2 align="center">Education</h2>
@@ -103,5 +48,3 @@ Used technologies:
 📧 **Email**: <a href="mailto:anatolyfroloff@gmail.com">anatolyfroloff@gmail.com</a><!-- and <a href="mailto:contact@anafro.ru">contact@anafro.ru</a>-->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/288px-VK.com-logo.svg.png" width="12" height="12"> **VK**: <a href="https://vk.com/anafro">Anatoly Frolov</a>
-
-<img src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" width="16"> **Twitter**: [twitter.com/anafro_official](https://twitter.com/anafro_official)
