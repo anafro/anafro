@@ -14,7 +14,7 @@
 I am Anatoly, a Software Developer from Vladivostok, Russia. I have been working on <a href="#projects">my projects</a> and developing <a href="#skills">programming skills</a> from 2019. I am still <a href="#education">studying at my university</a>. Got a question? Want to hire me? Have a project idea? Just <a href="#contacts">contact</a> me!
 
 <h2 align="center">Skills</h2>
-<img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Java.svg" height="20"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Java.svg" height="24"> 
+<p><img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Java.svg" height="20"> <img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/Java.svg" height="24"></p>
 
 So I can make a website for you with a beautiful design, and also a solid API for it. Moreover, I can work with Java to make standalone applications.
 
