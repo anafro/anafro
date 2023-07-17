@@ -36,7 +36,7 @@ Languages I speak:
 
 <h2 align="center">Education</h2>
 
-🎓 From 2020 to 2024: "Programming Engineering" Bachelor's degree at Far Eastern Federal University, FEFU (Vladivostok, Russia)
+<img src="https://raw.githubusercontent.com/anafro/anafro/main/Badges/FEFU.svg" height="24">
 
 <h2 align="center">Contacts</h2>
 
