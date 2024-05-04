@@ -36,5 +36,15 @@
 -->
 [![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Banner.svg "Press the right mouse button and click 'Copy link adress' to copy the URL to my GitHub page")](https://github.com/anafro)
 
+
+<div align="center">
+    <sub>
+        <b>English</b> •
+        <a href="https://example.com">Русский</a>
+    </sub>
+</div>
+
+<br />
+
 <h1 align="center">Hello</h1>
 
