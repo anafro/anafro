@@ -111,3 +111,9 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 </div>
 
 [![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Projects.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/anafro)
+
+<h2 align="center">List of my projects</h2>
+
+> <img width="16" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Quark.svg"> &nbsp; **Quark**
+> 
+> The DBMS.
