@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 76 76" style="enable-background:new 0 0 76 76;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#0075FF;}
-	.st1{opacity:0.3;}
-	.st2{fill:#FFFFFF;}
-</style>
-<title>logo</title>
-<path class="st0" d="M17.3,0h41.4C68.2,0,76,7.8,76,17.3v41.4C76,68.2,68.2,76,58.7,76H17.3C7.8,76,0,68.2,0,58.7V17.3
-	C0,7.8,7.8,0,17.3,0z"/>
-<g>
-	<g class="st1">
-		<path class="st2" d="M17.3,0h41.4C68.2,0,76,7.8,76,17.3v41.4C76,68.2,68.2,76,58.7,76H17.3C7.8,76,0,68.2,0,58.7V17.3
-			C0,7.8,7.8,0,17.3,0z"/>
-	</g>
-</g>
-<image style="overflow:visible;opacity:0.6;enable-background:new    ;" width="40" height="49" xlink:href="B378E7CD.png"  transform="matrix(1.6927 0 0 1.5371 4.4009 0)">
-</image>
-<path class="st2" d="M54.2,37.8c0.1,4-1.4,7.9-4.1,10.9l3.4,3.4l-3.6,3.3l-3.5-3.6c-2.6,1.5-5.5,2.3-8.5,2.3
-	C29,54.2,21.6,47,21.6,38c0-0.1,0-0.2,0-0.2c0-9,7.2-16.3,16.2-16.3c0,0,0.1,0,0.1,0c9,0,16.3,7.2,16.3,16.2
-	C54.2,37.7,54.2,37.7,54.2,37.8L54.2,37.8z M37.9,49.2c1.6,0,3.2-0.4,4.7-1l-5.8-5.9l3.6-3.3l6,6.2c1.7-2,2.6-4.6,2.5-7.2
-	c0.1-3-1.1-5.9-3.2-8.1c-4.3-4.4-11.4-4.4-15.8-0.1c-2.1,2.1-3.3,5-3.3,8c-0.1,3,1.1,5.9,3.2,8C32,48,34.9,49.2,37.9,49.2z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1429.4 1429.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0079ff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="0" width="1429.4" height="1429.4" rx="329.49" ry="329.49"/>
+  <g>
+    <polygon class="cls-2" points="398.76 677.05 500.38 989.81 829.24 989.81 951.23 1157.71 378.39 1157.71 201.38 612.91 398.76 677.05"/>
+    <polygon class="cls-2" points="1030.64 752.34 929.01 439.58 600.15 439.58 478.17 271.68 1051 271.68 1228.02 816.48 1030.64 752.34"/>
+    <polygon class="cls-2" points="1070.46 1080.24 904.8 843.75 1175.69 930.31 1070.46 1080.24"/>
+    <polygon class="cls-2" points="352.49 334.41 518.16 570.9 247.27 484.34 352.49 334.41"/>
+  </g>
 </svg>
