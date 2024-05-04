@@ -52,5 +52,8 @@
 
 <h1 align="center">Hello</h1>
 
-Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack developer from Petropavlovsk-Kamchatsky, Russia. I develop websites, desktop apps, games, and DBMS-es. Code will save the world!
+Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack developer from Petropavlovsk-Kamchatsky, Russia. I develop `🌍 websites`, `💻 desktop apps`, `🎮 games`, and `📚 DBMS-es`. 
+
+> [!IMPORTANT]  
+> Employer? <a href="https://example.com/" download>Download the resume</a>!
 
