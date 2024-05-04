@@ -19,6 +19,30 @@
             rotate: -3deg;
         }
 
+        20% {
+            scale: 1.03;
+            translate: -200px 0px;
+            rotate: 3deg;
+        }
+
+        40% {
+            scale: 1.07;
+            translate: -150px 40px;
+            rotate: -3deg;
+        }
+
+        60% {
+            scale: 1.07;
+            translate: -250px 0px;
+            rotate: 6deg;
+        }
+
+        80% {
+            scale: 1.07;
+            translate: -450px 50px;
+            rotate: -3deg;
+        }
+
         100% {
             scale: 1.07;
             translate: -50px 0px;
