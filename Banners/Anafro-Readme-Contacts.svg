@@ -20,8 +20,22 @@
         }
       }
 
+      @keyframes blinks {
+        0% {
+            scale: 1.02;
+        }
+
+        100% {
+            scale: 0.99;
+        }
+      }
+
       .cls-6, .cls-2, .cls-3, .cls-4, .cls-5 {
         animation: floating 2s alternate ease-in-out infinite;
+      }
+
+      .cls-3 {
+        animation: floating 2s alternate ease-in-out infinite, blinks 500ms alternate ease-in-out infinite;
       }
 
       .cls-2, .cls-4 {
