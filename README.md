@@ -108,5 +108,6 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
     <img alt="Static Badge" src="https://img.shields.io/badge/Designing-8A32D6?style=flat&logoColor=white">&nbsp;
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobe Illustrator-AB73F4?style=flat&logo=adobeillustrator&logoColor=white">
     <br>
-    
 </div>
+
+[![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Projects.svg "Press the right mouse button and click 'Copy link adress' to copy the URL to my GitHub page")](https://github.com/anafro)
