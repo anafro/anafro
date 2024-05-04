@@ -2,6 +2,34 @@
 <svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 817.06">
   <defs>
     <style>
+      @keyframes floating {
+        0% {
+            translate: -3px -20px;
+        }
+
+        100% {
+            translate: -20px 20px;
+        }
+      }
+
+      @keyframes floating-2 {
+        0% {
+            translate: -10px 10px;
+        }
+        
+        100% {
+            translate: -1px -10px;
+        }
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        animation: floating 2s alternate ease-in-out infinite;
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        animation: floating-2 1.5s alternate ease-in-out infinite;
+      }
+
       .cls-1, .cls-2, .cls-3, .cls-4 {
         stroke: #000;
         stroke-miterlimit: 10;
