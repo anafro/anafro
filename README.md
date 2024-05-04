@@ -17,20 +17,16 @@
 -->
 <div align="center">
     <a href="https://vk.com/anafro">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro-4C75A3?logo=vk">
-    </a>
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro-4C75A3?logo=vk"></a>
     &nbsp;
     <a href="mailto:contact@anafro.ru">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/contact%40anafro.ru-black?logo=maildotru">
-    </a>
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/contact%40anafro.ru-black?logo=maildotru"></a>
     &nbsp;
     <a href="https://t.me/anafro_ru">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/%40anafro__ru-26A5E4?logo=telegram">
-    </a>
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/%40anafro__ru-26A5E4?logo=telegram"></a>
     &nbsp;
     <a href="https://t.me/anafro_ru">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro.ru-305CD8?logo=instatus&logoColor=white">
-    </a>
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro.ru-305CD8?logo=instatus&logoColor=white"></a>
 </div>
 
 <br />
