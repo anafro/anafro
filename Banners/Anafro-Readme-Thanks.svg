@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 640">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: url(#_Безымянный_градиент_13);
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-family: MontserratItalic-Regular, Montserrat;
+        font-size: 28.1px;
+        font-variation-settings: 'wght' 400;
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_13" data-name="Безымянный градиент 13" x1="640.5" y1="-806.13" x2="640.5" y2="-1446.13" gradientTransform="translate(0 1446.13)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#305cd8" stop-opacity="0"/>
+      <stop offset=".02" stop-color="rgba(48, 92, 216, .08)" stop-opacity=".08"/>
+      <stop offset=".06" stop-color="rgba(48, 92, 216, .27)" stop-opacity=".27"/>
+      <stop offset=".11" stop-color="rgba(48, 92, 216, .45)" stop-opacity=".45"/>
+      <stop offset=".17" stop-color="rgba(48, 92, 216, .6)" stop-opacity=".6"/>
+      <stop offset=".23" stop-color="rgba(48, 92, 216, .72)" stop-opacity=".72"/>
+      <stop offset=".3" stop-color="rgba(48, 92, 216, .83)" stop-opacity=".83"/>
+      <stop offset=".38" stop-color="rgba(48, 92, 216, .91)" stop-opacity=".91"/>
+      <stop offset=".48" stop-color="rgba(48, 92, 216, .96)" stop-opacity=".96"/>
+      <stop offset=".61" stop-color="rgba(48, 92, 216, .99)" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#305cd8"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="0" width="1281" height="640" rx="32.83" ry="32.83" transform="translate(1281 640) rotate(180)"/>
+  <text class="cls-4" transform="translate(1082.16 575.93) rotate(-3)"><tspan class="cls-1" x="0" y="0">t</tspan><tspan class="cls-3" x="11.13" y="0">y</tspan><tspan x="26.19" y="0">sm!</tspan></text>
+</svg>
