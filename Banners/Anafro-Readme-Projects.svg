@@ -2,13 +2,45 @@
 <svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 817.06">
   <defs>
     <style>
+      @keyframes star-1 {
+        0% {
+            transform: translateY(-20px);
+        }
+
+        100% {
+            transform: translateY(20px);
+        }
+      }
+
+      @keyframes pencil {
+        0% {
+            scale: 0.93;
+            translate: -320px 80px;
+            rotate: -3deg;
+        }
+
+        100% {
+            scale: 1.07;
+            translate: -50px 0px;
+            rotate: 3deg;
+        }
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-3, .cls-6 {
+        animation: star-1 1200ms alternate ease-in-out infinite;
+      }
+
+      .cls-3x, .cls-5x, .cls-6x {
+        animation: pencil 1050ms alternate ease-in-out infinite;
+      }
+
       .cls-1, .cls-2 {
         stroke: #000;
         stroke-miterlimit: 10;
         stroke-width: 10px;
       }
 
-      .cls-1, .cls-3 {
+      .cls-1, .cls-3, .cls-3x {
         fill: #e8da31;
       }
 
@@ -28,7 +60,7 @@
         fill: #fff;
       }
 
-      .cls-6 {
+      .cls-6, .cls-6x {
         fill: #e53333;
       }
     </style>
@@ -73,8 +105,8 @@
   </g>
   <path class="cls-1" d="M818.26,567.4c0-41.38,23.61-77.25,58.09-94.87-206.3,74.29-412.6,148.59-618.9,222.88-1.25,2.44-16.87,34.39.51,64.85,14.11,24.73,43.98,37.96,74.03,32.17,197.58-39.52,395.16-79.04,592.74-118.57-58.8,0-106.47-47.67-106.47-106.47Z"/>
   <g>
-    <rect class="cls-6" x="824.16" y="255.96" width="79.51" height="36.77" transform="translate(59.05 691.23) rotate(-45)"/>
-    <polygon class="cls-3" points="807.64 330.61 848.8 315.45 822.81 289.45 807.64 330.61"/>
-    <path class="cls-5" d="M824.48,324.41c-.87-2.37-2.24-4.59-4.14-6.49s-4.13-3.27-6.49-4.14l-6.2,16.84,16.84-6.2Z"/>
+    <rect class="cls-6x" x="824.16" y="255.96" width="79.51" height="36.77" transform="translate(59.05 691.23) rotate(-45)"/>
+    <polygon class="cls-3x" points="807.64 330.61 848.8 315.45 822.81 289.45 807.64 330.61"/>
+    <path class="cls-5x" d="M824.48,324.41c-.87-2.37-2.24-4.59-4.14-6.49s-4.13-3.27-6.49-4.14l-6.2,16.84,16.84-6.2Z"/>
   </g>
 </svg>
