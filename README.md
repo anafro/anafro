@@ -36,7 +36,9 @@
 -->
 [![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Banner.svg "Press the right mouse button and click 'Copy link adress' to copy the URL to my GitHub page")](https://github.com/anafro)
 
-
+<!--
+    This is the language bar!
+-->
 <div align="center">
     <sub>
         <b>English</b> •
