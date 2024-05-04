@@ -235,3 +235,9 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 <br />
 
 [![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Thanks.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/anafro)
+
+<br />
+
+<div align="right">
+    <img alt="GitHub Views counter" src="https://komarev.com/ghpvc/?username=anafro">
+</div>
