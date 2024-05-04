@@ -27,6 +27,8 @@
     &nbsp;
     <a href="https://t.me/anafro_ru">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro.ru-305CD8?logo=instatus&logoColor=white"></a>
+    &nbsp;
+    <img alt="GitHub Views counter" src="https://komarev.com/ghpvc/?username=anafro">
 </div>
 
 <br />
@@ -49,4 +51,6 @@
 <br />
 
 <h1 align="center">Hello</h1>
+
+Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack developer from Petropavlovsk-Kamchatsky, Russia. I develop websites, desktop apps, games, and DBMS-es. Code will save the world!
 
