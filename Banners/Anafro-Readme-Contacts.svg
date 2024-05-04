@@ -10,6 +10,20 @@
         stroke-width: 0px;
       }
 
+      @keyframes floating {
+        0% {
+            transform: translateY(-20px);
+        }
+
+        100% {
+            transform: translateY(20px);
+        }
+      }
+
+      .cls-6, .cls-2, .cls-3, .cls-4, .cls-5 {
+        animation: floating 2s alternate ease-in-out infinite;
+      }
+
       .cls-2, .cls-4 {
         fill: #000;
       }
