@@ -25,7 +25,10 @@
     <a href="https://t.me/anafro_ru">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/%40anafro__ru-26A5E4?logo=telegram"></a>
     &nbsp;
-    <a href="https://t.me/anafro_ru">
+    <a href="https://discord.com/users/398742003556548618/">
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro-7289da?logo=discord&logoColor=white"></a>
+    &nbsp;
+    <a href="https://anafro.ru/">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro.ru-305CD8?logo=instatus&logoColor=white"></a>
     &nbsp;
     <img alt="GitHub Views counter" src="https://komarev.com/ghpvc/?username=anafro">
@@ -226,6 +229,9 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
     &nbsp;
     <a href="https://t.me/anafro_ru">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/%40anafro__ru-26A5E4?logo=telegram"></a>
+    &nbsp;
+    <a href="https://discord.com/users/398742003556548618/">
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro-7289da?logo=discord&logoColor=white"></a>
     &nbsp;
     <a href="https://t.me/anafro_ru">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro.ru-305CD8?logo=instatus&logoColor=white"></a>
