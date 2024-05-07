@@ -6,6 +6,7 @@
 
     If you liked any of its content, feel free to inspire and use on your page!
 
+    But may I ask you to follow me then? Just a click of a button!
 -->
 
 
