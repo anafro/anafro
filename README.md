@@ -119,7 +119,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 
 > &nbsp;
 >
-> <img width="18" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Gallery.svg"> &nbsp; Anafro **Gallery** `v4.0`
+> <img width="18" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Gallery.svg"> &nbsp; Anafro **Gallery** `v1.0`
 >
 > Gallery is an online collection of my websites and online platforms to show off my frontend skills.
 >
