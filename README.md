@@ -118,6 +118,18 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 <h2 align="center">List of my projects</h2>
 
 > &nbsp;
+>
+> <img width="18" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Gallery.svg"> &nbsp; Anafro **Gallery** `v4.0`
+>
+> Gallery is an online collection of my websites and online platforms to show off my frontend skills.
+>
+> `frontend`, `portfolio`, `nuxt`, `ts`, `vue`
+>
+> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+>
+> &nbsp;
+
+> &nbsp;
 > 
 > <img width="18" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Quark.svg"> &nbsp; Anafro **Quark** `v4.0`
 > 
@@ -137,7 +149,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `japanese-language`, `hiragana`, `katakana`, `e-learning`, `express-js`
 > 
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a src="https://sakurator.anafro.ru/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -149,7 +161,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `math`, `russian-state-exams`, `e-learning`, `nuxt`
 > 
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a src="https://github.com/memory-boost/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -161,7 +173,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `chess-engine`, `shogi-engine`, `shogi`, `go`, `gorm`, `nuxt`
 > 
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a src="https://github.com/thunderlight-shogi/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -173,7 +185,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `css-animations`, `animation-editor`, `css`, `express-js`, `prisma`
 > 
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a src="https://github.com/keyframe-base/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -185,7 +197,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `css-animations`, `animation-editor`, `css`, `express-js`, `prisma`
 > 
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a src="https://github.com/norwegian-irregular-verbs/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -197,7 +209,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `game`, `game-engine`, `html-canvas`, `webpack`
 > 
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a src="https://github.com/elaria-clash-of-the-worlds/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -209,7 +221,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `orm`, `python`, `sqlite`
 > 
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a src="https://github.com/king-orm/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
