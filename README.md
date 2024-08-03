@@ -125,7 +125,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `frontend`, `portfolio`, `nuxt`, `ts`, `vue`
 >
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://gallery.anafro.ru/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 >
 > &nbsp;
 
@@ -137,7 +137,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `relational-dbms`, `database`, `dbms`, `jvm`, `electron`
 > 
-> <a src="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -149,7 +149,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `japanese-language`, `hiragana`, `katakana`, `e-learning`, `express-js`
 > 
-> <a src="https://sakurator.anafro.ru/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://sakurator.anafro.ru/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -161,7 +161,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `math`, `russian-state-exams`, `e-learning`, `nuxt`
 > 
-> <a src="https://github.com/memory-boost/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://github.com/memory-boost/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -173,7 +173,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `chess-engine`, `shogi-engine`, `shogi`, `go`, `gorm`, `nuxt`
 > 
-> <a src="https://github.com/thunderlight-shogi/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://github.com/thunderlight-shogi/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -185,7 +185,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `css-animations`, `animation-editor`, `css`, `express-js`, `prisma`
 > 
-> <a src="https://github.com/keyframe-base/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://github.com/keyframe-base/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -197,7 +197,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `css-animations`, `animation-editor`, `css`, `express-js`, `prisma`
 > 
-> <a src="https://github.com/norwegian-irregular-verbs/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://github.com/norwegian-irregular-verbs/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -209,7 +209,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `game`, `game-engine`, `html-canvas`, `webpack`
 > 
-> <a src="https://github.com/elaria-clash-of-the-worlds/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://github.com/elaria-clash-of-the-worlds/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
@@ -221,7 +221,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > `orm`, `python`, `sqlite`
 > 
-> <a src="https://github.com/king-orm/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> <a href="https://github.com/king-orm/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
 
