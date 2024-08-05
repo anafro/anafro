@@ -16,6 +16,9 @@
     which is displayed all above the page!
 -->
 <div align="center">
+    <a href="https://awesome.re">
+        <img alt="Static Badge" src="https://awesome.re/badge.svg"></a>
+    &nbsp;
     <a href="https://vk.com/anafro">
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro-4C75A3?logo=vk"></a>
     &nbsp;
