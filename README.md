@@ -20,10 +20,7 @@
         <img alt="Static Badge" src="https://shields-io.translate.goog/badge/contact%40lewiszhu32@gmail.com-black?logo=maildotru"></a>
     &nbsp;
     <a href="https://discord.com/users/641547922336382976/">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro-7289da?logo=discord&logoColor=white"></a>
-    &nbsp;
-    <a href="https://anafro.ru/">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/anafro.ru-305CD8?logo=instatus&logoColor=white"></a>
+        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/Lewis-7289da?logo=discord&logoColor=white"></a>
     &nbsp;
     <img alt="GitHub Views counter" src="https://komarev.com/ghpvc/?username=LewisTheDeveloper">
 </div>
