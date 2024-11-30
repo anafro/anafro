@@ -1,4 +1,4 @@
-<!--
+    <!--
     ʕ•́ᴥ•̀ʔっ♡
 
     Hello there!
@@ -30,7 +30,7 @@
 <!--
     This is where the page begins!
 -->
-[![The Anafro's Profile Page Banner]("https://s13.gifyu.com/images/SGoJX.gif "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/LewisTheDeveloper)
+[![The Anafro's Profile Page Banner](https://s13.gifyu.com/images/SGoJX.gif "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/LewisTheDeveloper)
 
 <!--
     This is the language bar!
