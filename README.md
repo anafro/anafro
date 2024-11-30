@@ -35,14 +35,6 @@
 <!--
     This is the language bar!
 -->
-<div align="center">
-    <sub>
-        <b>English</b> •
- (sorry!)
-    </sub>
-</div>
-
-<br />
 
 <h1 align="center">Hello</h1>
 
@@ -54,7 +46,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Lewis Zhu`, a 14 year old develo
 <!--
     This is the list of my skills and tools I use!
 -->
-[![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Skills.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/anafro)
+[![The Anafro's Profile Page Banner](https://github.com/LewisTheDeveloper/LewisTheDeveloper/blob/main/standard%20(4).gif "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/LewisTheDeveloper)
 
 <h2 align="center">List of my skills</h2>
 
