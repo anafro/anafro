@@ -1,4 +1,4 @@
-    <!--
+<!--
     ʕ•́ᴥ•̀ʔっ♡
 
     Hello there!
@@ -30,7 +30,7 @@
 <!--
     This is where the page begins!
 -->
-[![The Anafro's Profile Page Banner](https://s13.gifyu.com/images/SGoJX.gif "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/LewisTheDeveloper)
+[![The Anafro's Profile Page Banner](https://gifyu.com/image/SGoJX "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/LewisTheDeveloper)
 
 <!--
     This is the language bar!
@@ -46,7 +46,7 @@
 
 <h1 align="center">Hello</h1>
 
-Welcome to my GitHub profile! I am `👨‍💻 Lewis Zhu`, a 14 year old developer from Wales, United Kingdoms. I develop `🌍 websites`(but learning more!). 
+Welcome to my GitHub profile! I am `👨‍💻 Lewis Zhu`, a 14 year old developer from Wales, United Kingdoms. I develop `🌍 websites`(but learning to do more!). 
 
 > [!IMPORTANT]  
 > Want a website! <a href="https://example.com/" download>Fill the form!</a>!
