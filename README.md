@@ -1,7 +1,7 @@
-<br><br><br>
+![](/Banners/Anafro-Readme-2025-Banner.png)
 
-<p align="center">
-    <i>Get prepared for README '25...</i>
-</p>
+![](/Banners/Anafro-Readme-2025-Skills.png)
 
-<br><br><br>
+![](/Banners/Anafro-Readme-2025-Projects.png)
+
+![](/Banners/Anafro-Readme-2025-Contacts.png)
