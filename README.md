@@ -34,6 +34,12 @@
 
 ![](/Banners/Anafro-Readme-2025-Skills.png)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,python,php,laravel,go,nodejs,nuxt,express,prisma,vite,pug,html,css,sass,js,ts,vue,pinia,svelte,vscode,cs,nginx,unity,electron&perline=5" />
+  </a>
+</p>
+
 ![](/Banners/Anafro-Readme-2025-Projects.png)
 
 ![](/Banners/Anafro-Readme-2025-Contacts.png)
