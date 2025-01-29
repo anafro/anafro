@@ -1,5 +1,15 @@
 ![](/Banners/Anafro-Readme-2025-Banner.png)
 
+<p align="center">
+
+<img src="/Badges/Mail__1.png">
+<img src="/Badges/Telegram__2.png">
+<img src="/Badges/Site__3.png">
+<img src="/Badges/VK__4.png">
+<img src="/Badges/Discord__5.png">
+
+</p>
+
 <p id="hero__header" align="center">
     <p align="center">
         <a href="https://awesome.re">
