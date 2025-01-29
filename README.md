@@ -2,11 +2,25 @@
 
 <p align="center">
 
-<img src="/Badges/Mail__1.svg" height="24">
+<a href="mailto:contact@anafro.ru">
+    <img src="/Badges/Mail__1.svg" height="24">
+</a>
+
+<a href="https://t.me/anafro_ru">
 <img src="/Badges/Telegram__2.svg" height="24">
+</a>
+
+<a href="https://anafro.ru">
 <img src="/Badges/Site__3.svg" height="24">
+</a>
+
+<a href="https://vk.com/anafro">
 <img src="/Badges/VK__4.svg" height="24">
+</a>
+
+<a href="https://discord.com/users/398742003556548618/">
 <img src="/Badges/Discord__5.svg" height="24">
+</a>
 
 </p>
 
