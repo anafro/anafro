@@ -2,11 +2,11 @@
 
 <p align="center">
 
-<img src="/Badges/Mail__1.svg" height="28">
-<img src="/Badges/Telegram__2.svg" height="28">
-<img src="/Badges/Site__3.svg" height="28">
-<img src="/Badges/VK__4.svg" height="28">
-<img src="/Badges/Discord__5.svg" height="28">
+<img src="/Badges/Mail__1.svg" height="24">
+<img src="/Badges/Telegram__2.svg" height="24">
+<img src="/Badges/Site__3.svg" height="24">
+<img src="/Badges/VK__4.svg" height="24">
+<img src="/Badges/Discord__5.svg" height="24">
 
 </p>
 
