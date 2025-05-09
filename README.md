@@ -13,6 +13,6 @@ but also developed games, DBMS, servers, and desktop apps.
 > should be considered as legacy, and have minimal chances
 > of development continuation, so no contribution to those!
 
-*The list of projects is empty*
+![](/Banners/Avacha-Hero.png)
 
 ---
