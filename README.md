@@ -14,5 +14,6 @@ but also developed games, DBMS, servers, and desktop apps.
 > of development continuation, so no contribution to those!
 
 ![](/Banners/Avacha-Hero.png)
+![](/Banners/Landing-Factory-Hero.png)
 
 ---
