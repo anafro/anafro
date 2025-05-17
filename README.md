@@ -14,7 +14,20 @@ but also developed games, DBMS, servers, and desktop apps.
 > of development continuation, so no contribution to those!
 
 ![](/Banners/Avacha-Hero.png)
-![](/Banners/Ksudach-Hero.png)
-![](/Banners/Landing-Factory-Hero.png)
-
 ---
+**Avacha** is a supercharged PHP framework, 
+fully electrified with routes, controllers, 
+templates powered by Latte, 
+and customizable error and exception pages.
+
+![](/Banners/Ksudach-Hero.png)
+---
+**Ksudach** is a bold frontend framework designed to be fast, 
+and robust. By creating functional components, 
+it keeps the full functional control for programmers over the code they write.
+
+![](/Banners/Landing-Factory-Hero.png)
+---
+**Landing Factory** is a web-portfolio site, 
+where potential customers can see and interact with professionally crafted webpages,
+and where they can order websites for themselves.
