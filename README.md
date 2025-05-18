@@ -16,7 +16,7 @@ but also developed games, DBMS, servers, and desktop apps.
 [![https://github.com/anafro/avacha](/Banners/Avacha-Hero.png)](https://github.com/anafro/avacha)
 
 ---
-**[Avacha]((https://github.com/anafro/avacha))** is a supercharged PHP framework, 
+**[Avacha](https://github.com/anafro/avacha)** is a supercharged PHP framework, 
 fully electrified with routes, controllers, 
 templates powered by Latte, 
 and customizable error and exception pages.
