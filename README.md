@@ -13,21 +13,22 @@ but also developed games, DBMS, servers, and desktop apps.
 > should be considered as legacy, and have minimal chances
 > of development continuation, so no contribution to those!
 
-![](/Banners/Avacha-Hero.png)
+[![https://github.com/anafro/avacha](/Banners/Avacha-Hero.png)](https://github.com/anafro/avacha)
+
 ---
-**Avacha** is a supercharged PHP framework, 
+**[Avacha]((https://github.com/anafro/avacha))** is a supercharged PHP framework, 
 fully electrified with routes, controllers, 
 templates powered by Latte, 
 and customizable error and exception pages.
 
-![](/Banners/Ksudach-Hero.png)
+[![](/Banners/Ksudach-Hero.png)](https://github.com/anafro/ksudach)
 ---
-**Ksudach** is a bold frontend framework designed to be fast, 
+**[Ksudach](https://github.com/anafro/ksudach)** is a bold frontend framework designed to be fast, 
 and robust. By creating functional components, 
 it keeps the full functional control for programmers over the code they write.
 
-![](/Banners/Landing-Factory-Hero.png)
+[![](/Banners/Landing-Factory-Hero.png)](https://github.com/anafro/landing-factory)
 ---
-**Landing Factory** is a web-portfolio site, 
+**[Landing Factory](https://github.com/anafro/landing-factory)** is a web-portfolio site, 
 where potential customers can see and interact with professionally crafted webpages,
 and where they can order websites for themselves.
