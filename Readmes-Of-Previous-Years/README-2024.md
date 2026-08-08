@@ -198,7 +198,7 @@ Welcome to my GitHub profile! I am `👨‍💻 Anatoly Frolov`, a full-stack de
 >
 > Norwegian Irregular Verbs website teaches irregular verbs in Norwegian language. There are several sets of cards, each contains 4-6 verbs. The website tracks how many verbs were learned successfully and suggest the card which has the lowest success rate. It's works 100% on frontend.
 >
-> `css-animations`, `animation-editor`, `css`, `express-js`, `prisma`
+> `norwegian`, `irregular-verbs`, `language-learning`, `frontend`, `flashcards`
 >
 > <a href="https://github.com/norwegian-irregular-verbs/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 >
